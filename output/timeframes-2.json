@@ -1,0 +1,64 @@
+{
+  "monday": [
+    {
+      "from": null,
+      "to": "08:00"
+    },
+    {
+      "from": "16:00",
+      "to": null
+    }
+  ],
+  "tuesday": [
+    {
+      "from": null,
+      "to": "08:00"
+    },
+    {
+      "from": "16:00",
+      "to": null
+    }
+  ],
+  "wednesday": [
+    {
+      "from": null,
+      "to": "08:00"
+    },
+    {
+      "from": "16:00",
+      "to": null
+    }
+  ],
+  "thursday": [
+    {
+      "from": null,
+      "to": "08:00"
+    },
+    {
+      "from": "16:00",
+      "to": null
+    }
+  ],
+  "friday": [
+    {
+      "from": null,
+      "to": "08:00"
+    },
+    {
+      "from": "16:00",
+      "to": null
+    }
+  ],
+  "saturday": [
+    {
+      "from": null,
+      "to": null
+    }
+  ],
+  "sunday": [
+    {
+      "from": null,
+      "to": null
+    }
+  ]
+}
